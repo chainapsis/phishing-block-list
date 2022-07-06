@@ -69,3 +69,4 @@ keplr-vvallet.site
 keplr-vvallet-app.website
 keplr-vvallet.online
 app-keplr-vvallet.store
+keplrmetaapp.com
