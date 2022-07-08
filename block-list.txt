@@ -70,3 +70,6 @@ keplr-vvallet-app.website
 keplr-vvallet.online
 app-keplr-vvallet.store
 keplrmetaapp.com
+launchpad-dex.com
+dappsrectifications.site
+keplrdapps.online
