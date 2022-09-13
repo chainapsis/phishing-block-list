@@ -81,3 +81,4 @@ keplrwebwallet.app
 keplrwalletweb.app
 bahabet.com
 web.flowcoistring.com
+osmosis-swap.com
