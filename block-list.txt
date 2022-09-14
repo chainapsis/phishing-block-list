@@ -84,3 +84,5 @@ web.flowcoistring.com
 osmosis-swap.com
 dapp-launchairdrop.com
 secwallensured.com
+walletdappfixed.net
+keplr-app.shop
