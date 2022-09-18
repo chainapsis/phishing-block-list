@@ -87,3 +87,6 @@ secwallensured.com
 walletdappfixed.net
 keplr-app.shop
 wasabi-bitcoin-wallet.org
+truestpad.com
+ipfs-tornado.cash
+swap-osmosis.com
