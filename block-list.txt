@@ -90,3 +90,7 @@ wasabi-bitcoin-wallet.org
 truestpad.com
 ipfs-tornado.cash
 swap-osmosis.com
+evmos-rektdrop.com
+de-fiappnetwork.com
+wave-dapp.com
+webvalidator-interface.net
