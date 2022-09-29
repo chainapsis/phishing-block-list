@@ -96,3 +96,5 @@ wave-dapp.com
 webvalidator-interface.net
 stattion-terra.money.nairit.com
 cosmos-bak.com
+cosmo-network.online
+atom20.ltd
