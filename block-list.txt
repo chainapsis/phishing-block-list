@@ -101,3 +101,7 @@ atom20.ltd
 cronocrypto.com
 osmosis-dapp.com
 torustool.com
+keplr-webapp.com
+keplr-app.info
+web-osmosis.zone
+web3-osmosis.zone
