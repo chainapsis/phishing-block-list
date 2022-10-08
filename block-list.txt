@@ -105,3 +105,8 @@ keplr-webapp.com
 keplr-app.info
 web-osmosis.zone
 web3-osmosis.zone
+osmosis-osmo.com
+osmosis-network.com
+appe-osmosis.zone
+dashboard-keplr.online
+osmosiss.zone
