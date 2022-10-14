@@ -111,3 +111,4 @@ appe-osmosis.zone
 dashboard-keplr.online
 osmosiss.zone
 mirandus-game.com
+keplr-web.app
