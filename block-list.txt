@@ -113,3 +113,5 @@ osmosiss.zone
 mirandus-game.com
 keplr-web.app
 new-brave.org
+injective-network.org/staking/
+injective-network.org
