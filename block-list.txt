@@ -112,3 +112,5 @@ dashboard-keplr.online
 osmosiss.zone
 mirandus-game.com
 keplr-web.app
+https://new-brave.org/
+https://node-debug.pages.dev/accessapi-wc/
