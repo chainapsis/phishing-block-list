@@ -113,4 +113,3 @@ osmosiss.zone
 mirandus-game.com
 keplr-web.app
 new-brave.org
-node-debug.pages.dev/accessapi-wc
