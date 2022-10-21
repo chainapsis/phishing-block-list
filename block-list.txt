@@ -115,3 +115,4 @@ keplr-web.app
 new-brave.org
 injective-network.org/staking/
 injective-network.org
+web-keplr.app
