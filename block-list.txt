@@ -115,3 +115,6 @@ keplr-web.app
 new-brave.org
 injective-network.org
 web-keplr.app
+keplr-wallets.app
+osmosis-cosmos.com
+osimosis.com
