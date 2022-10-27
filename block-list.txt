@@ -121,3 +121,4 @@ osimosis.com
 app.smartcoitechs.com
 osmosis-defi.com
 osmosis-dex.com
+spaceway.io
