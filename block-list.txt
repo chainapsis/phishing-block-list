@@ -128,3 +128,5 @@ kepir.website
 protocolfixing.ink
 kplr.pw
 cosmosshield.com
+thekeplrbackend.network
+ssosmosis.org
