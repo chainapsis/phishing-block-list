@@ -130,3 +130,4 @@ kplr.pw
 cosmosshield.com
 thekeplrbackend.network
 ssosmosis.org
+osmosis-zone.tech
