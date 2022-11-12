@@ -10,3 +10,4 @@ keplr__wallet
 athenafaye16
 abegailtagudar
 infomandut
+KeplrSupport__
