@@ -11,3 +11,7 @@ athenafaye16
 abegailtagudar
 infomandut
 KeplrSupport__
+Keplr_team
+Keplr_wallets
+help__keplr
+KeplrWallet_AID
