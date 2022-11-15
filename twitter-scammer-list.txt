@@ -18,3 +18,4 @@ KeplrWallet_AID
 MELISSA65038669
 Keplr_Hellp
 osmsszone
+kepIr_waIIet
