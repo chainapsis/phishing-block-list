@@ -36,3 +36,5 @@ bdb_dhb
 Osmosis_Zone
 0smosis_support
 _osmosis_zone
+SupportOsmosis
+CareOsmosis
