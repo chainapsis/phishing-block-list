@@ -134,3 +134,5 @@ osmosis-zone.tech
 apps-osmosis.zone
 osmosis.dexclaim.com
 defi-events.net
+dappmans.com
+aidrop.org
