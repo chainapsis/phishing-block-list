@@ -136,3 +136,4 @@ osmosis.dexclaim.com
 defi-events.net
 dappmans.com
 aidrop.org
+keplr-network-restore.one
