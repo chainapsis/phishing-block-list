@@ -33,6 +33,7 @@ AdelutaW
 FaQsuppport
 EvmosOrg____
 bdb_dhb
+KeplrW
 Osmosis_Zone
 0smosis_support
 _osmosis_zone
