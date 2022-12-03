@@ -138,3 +138,4 @@ dappmans.com
 aidrop.org
 keplr-network-restore.one
 walletforvalidate.com
+wwwosmosis.zone
