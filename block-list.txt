@@ -142,3 +142,6 @@ wwwosmosis.zone
 b-g.com.sa
 bitxneo.com
 osmosis-web.com
+kepir.app
+en.multidefiprotocols.com
+multifixtools.com
