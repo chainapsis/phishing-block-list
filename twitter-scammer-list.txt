@@ -44,3 +44,4 @@ Osmosis_Guide
 keplrHelpdesk
 osmosizsone
 CHEESYHOTBUNS5
+0smosisSupport
