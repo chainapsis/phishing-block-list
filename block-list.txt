@@ -146,3 +146,4 @@ kepir.app
 en.multidefiprotocols.com
 multifixtools.com
 trustpad-community.net
+walletconnect.net
