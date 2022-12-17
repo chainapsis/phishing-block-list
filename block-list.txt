@@ -149,3 +149,4 @@ trustpad-community.net
 walletconnect.net
 premium-poe.com
 keplr-bridge.tech
+zksync.quest
