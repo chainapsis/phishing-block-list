@@ -150,3 +150,8 @@ walletconnect.net
 premium-poe.com
 keplr-bridge.tech
 zksync.quest
+dappairdrops-x.com
+zksync.uno
+zk-sync.me
+Zk-Sync.quest
+zksync.asia
