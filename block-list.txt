@@ -167,3 +167,4 @@ Keplrapp.net
 cosmosdex.xyz
 osmosiscoin.xyz
 palette-jp.com
+osmosis.host
