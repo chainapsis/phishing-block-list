@@ -169,3 +169,4 @@ osmosiscoin.xyz
 palette-jp.com
 osmosis.host
 osmosis.cx
+osmosiszone.app
