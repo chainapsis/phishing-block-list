@@ -170,3 +170,4 @@ palette-jp.com
 osmosis.host
 osmosis.cx
 osmosiszone.app
+keplr.at
