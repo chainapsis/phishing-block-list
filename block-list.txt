@@ -171,3 +171,4 @@ osmosis.host
 osmosis.cx
 osmosiszone.app
 keplr.at
+vterra.at
