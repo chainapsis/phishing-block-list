@@ -172,3 +172,5 @@ osmosis.cx
 osmosiszone.app
 keplr.at
 vterra.at
+TerraWeb.at
+nterra2.at
