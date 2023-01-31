@@ -174,3 +174,4 @@ keplr.at
 vterra.at
 TerraWeb.at
 nterra2.at
+theconnectweb.xyz
