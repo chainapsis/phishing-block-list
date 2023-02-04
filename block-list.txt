@@ -177,3 +177,4 @@ nterra2.at
 theconnectweb.xyz
 meta-merging.com
 thevmos.org
+keplr-wallet.at
