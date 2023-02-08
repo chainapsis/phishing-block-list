@@ -182,3 +182,4 @@ cosmos-online.pro
 metemask-io.com
 cosmosdrops.biz
 cosmosdrops.live
+wterra2.at
