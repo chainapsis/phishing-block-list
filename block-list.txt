@@ -196,3 +196,4 @@ wallet-keplr.network
 vdefi.app
 uterra2.at
 cosmosdrops.cloud
+tterra2.at
