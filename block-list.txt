@@ -198,3 +198,4 @@ uterra2.at
 cosmosdrops.cloud
 tterra2.at
 keplr-wallet.xyz
+cosmos-online.at
