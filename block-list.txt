@@ -199,3 +199,5 @@ cosmosdrops.cloud
 tterra2.at
 keplr-wallet.xyz
 cosmos-online.at
+mymoderator.xyz
+osmosislabs.net
