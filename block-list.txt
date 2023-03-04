@@ -204,3 +204,4 @@ osmosislabs.net
 cosmosnetwork.at
 Ccbox.io
 zterra2.at
+osmois.zone
