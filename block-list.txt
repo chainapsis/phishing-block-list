@@ -118,7 +118,6 @@ web-keplr.app
 keplr-wallets.app
 osmosis-cosmos.com
 osimosis.com
-app.smartcoitechs.com
 osmosis-defi.com
 osmosis-dex.com
 spaceway.io
@@ -143,7 +142,6 @@ b-g.com.sa
 bitxneo.com
 osmosis-web.com
 kepir.app
-en.multidefiprotocols.com
 multifixtools.com
 trustpad-community.net
 walletconnect.net
@@ -153,7 +151,6 @@ zksync.quest
 dappairdrops-x.com
 zksync.uno
 zk-sync.me
-Zk-Sync.quest
 zksync.asia
 v2Terra.de
 cryptokratex.com
@@ -172,7 +169,6 @@ osmosis.cx
 osmosiszone.app
 keplr.at
 vterra.at
-TerraWeb.at
 nterra2.at
 theconnectweb.xyz
 meta-merging.com
@@ -202,17 +198,13 @@ cosmos-online.at
 mymoderator.xyz
 osmosislabs.net
 cosmosnetwork.at
-Ccbox.io
 zterra2.at
 osmois.zone
 arbit-rum.us
 arbitrum.lol
-base.drops.ink
-syncb-00.duckdns.org
 v2Terra.de
 terraweb.at
 fterra2.at
-www.v2Terra.de
 web3claiming.com
 terrapro.at
 yterra2.at
