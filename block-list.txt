@@ -209,4 +209,5 @@ arbit-rum.us
 arbitrum.lol
 base.drops.ink
 syncb-00.duckdns.org
-www.v2Terra.de
+v2Terra.de
+terraweb.at
