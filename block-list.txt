@@ -211,3 +211,4 @@ base.drops.ink
 syncb-00.duckdns.org
 v2Terra.de
 terraweb.at
+fterra2.at
