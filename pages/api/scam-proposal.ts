@@ -2,13 +2,28 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import path from "path";
 import { promises as fs } from "fs";
+import Cors from "cors";
 
 type Data = {};
+
+const cors = Cors({
+  methods: ["GET"],
+});
 
 export default async function (
   req: NextApiRequest,
   res: NextApiResponse<Data>
 ) {
+  await new Promise((resolve, reject) => {
+    cors(req, res, (result: any) => {
+      if (result instanceof Error) {
+        return reject(result);
+      }
+
+      return resolve(result);
+    });
+  });
+
   const directory = path.join(process.cwd(), "scam-proposals");
 
   const promiseFiles = (await fs.readdir(directory)).map(async (fileName) => {
