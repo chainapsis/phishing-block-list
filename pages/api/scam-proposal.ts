@@ -20,14 +20,15 @@ export default async function (
       const splitId = proposalId.split("-");
       if (splitId.length > 1) {
         proposalIds.splice(index, 1);
-
-        for (
-          let i = Number.parseInt(splitId[0]);
-          i <= Number.parseInt(splitId[1]);
-          i++
-        ) {
-          proposalIds.push(`${i}`);
-        }
+        proposalIds.push(
+          ...Array.from(
+            {
+              length:
+                Number.parseInt(splitId[1]) - Number.parseInt(splitId[0]) + 1,
+            },
+            (v, i) => (i + Number.parseInt(splitId[0])).toString()
+          )
+        );
       }
     });
 
