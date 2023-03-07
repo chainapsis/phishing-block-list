@@ -37,13 +37,10 @@ export default async function (
     };
   });
 
-  const response = (await Promise.all(promiseFiles))
-    .map((file) => file)
-    .reduce(
-      (obj, item) =>
-        Object.assign(obj, { [item.identifier]: item.proposalIds }),
-      {}
-    );
+  const response = (await Promise.all(promiseFiles)).reduce(
+    (obj, item) => Object.assign(obj, { [item.identifier]: item.proposalIds }),
+    {}
+  );
 
   res.status(200).json(response);
 }
