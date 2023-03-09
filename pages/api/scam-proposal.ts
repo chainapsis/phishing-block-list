@@ -29,7 +29,15 @@ export default async function (
   const promiseFiles = (await fs.readdir(directory)).map(async (fileName) => {
     const file = await fs.readFile(`${directory}/${fileName}`, "utf8");
 
-    const proposalIds = file.length > 0 ? file.trim().split("\n") : [];
+    const proposalIds =
+      file.length > 0
+        ? file
+            .trim()
+            .split("\n")
+            .map((proposalId: string) =>
+              proposalId.replace(/[\n\r]/g, "").trim()
+            )
+        : [];
 
     proposalIds.forEach((proposalId, index) => {
       const splitId = proposalId.split("-");
