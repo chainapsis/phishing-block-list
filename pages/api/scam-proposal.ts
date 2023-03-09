@@ -32,7 +32,6 @@ export default async function (
     const proposalIds =
       file.length > 0
         ? file
-            .trim()
             .split("\n")
             .map((proposalId: string) =>
               proposalId.replace(/[\n\r]/g, "").trim()
