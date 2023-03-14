@@ -728,3 +728,5 @@ cosmodrop.co
 v2atom.at
 cosmos-online.co
 web3claimer.com
+osmosistok.online
+wallet-keplr.org
