@@ -731,3 +731,4 @@ osmosistok.online
 wallet-keplr.org
 reserves-circles.com
 tether-claim.top
+keplrwalletweb.app
