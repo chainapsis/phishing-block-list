@@ -734,3 +734,4 @@ tether-claim.top
 keplrwalletweb.app
 webatom.at
 cosmos-network.io
+cosmosnetwork.cloud
