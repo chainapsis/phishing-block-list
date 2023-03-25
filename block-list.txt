@@ -736,3 +736,4 @@ webatom.at
 cosmos-network.io
 cosmosnetwork.cloud
 bip39calculator.online
+cosmonetwork.cloud
