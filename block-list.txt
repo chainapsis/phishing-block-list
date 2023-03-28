@@ -740,3 +740,4 @@ cosmonetwork.cloud
 walletintegrator.com
 multi-solveresolution.com
 csgo2access.com
+cosmos-wallet.cloud
