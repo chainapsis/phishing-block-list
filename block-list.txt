@@ -744,3 +744,5 @@ cosmos-wallet.cloud
 dappmodule.com
 oxen.pro
 my-cosmos.network
+mi-cosmos.network
+coin-changer.net
