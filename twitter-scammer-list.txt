@@ -63,3 +63,4 @@ narshhhh1
 osmosiszorne
 danim20491
 osmo_zone
+axelar_core
