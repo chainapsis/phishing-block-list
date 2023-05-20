@@ -64,3 +64,4 @@ osmosiszorne
 danim20491
 osmo_zone
 axelar_core
+sunnya97_
