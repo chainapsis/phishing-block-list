@@ -753,3 +753,4 @@ webatom2.at
 www-spooky.finance
 eventmeta.org
 guild-system.net
+stargaze.life
