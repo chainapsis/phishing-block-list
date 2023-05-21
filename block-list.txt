@@ -754,3 +754,4 @@ www-spooky.finance
 eventmeta.org
 guild-system.net
 stargaze.life
+mainnetsync.net
