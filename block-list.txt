@@ -757,3 +757,5 @@ stargaze.life
 mainnetsync.net
 blockchainrpcfixtools.com
 claim-aura.network
+shibaget.org
+layerzero.expert
