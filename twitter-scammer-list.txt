@@ -66,3 +66,4 @@ osmo_zone
 axelar_core
 sunnya97_
 kepplrwallet
+Leapwallet_CS
