@@ -760,7 +760,6 @@ claim-aura.network
 shibaget.org
 layerzero.expert
 osmossiz.zone
-layerzero.network
 cosmos-network.app
 pepe.enterprises
 boomchange.com
