@@ -769,3 +769,5 @@ terraweb2.at
 dropshib.net
 mymixer.io
 cosmos-network.exchange
+meta-coin.org
+usertech.org
