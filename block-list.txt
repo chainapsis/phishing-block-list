@@ -771,3 +771,4 @@ mymixer.io
 cosmos-network.exchange
 meta-coin.org
 usertech.org
+cosmos-network.digital
