@@ -772,3 +772,4 @@ meta-coin.org
 usertech.org
 cosmos-network.digital
 webterra.at
+leapwallet-io.com
