@@ -69,3 +69,4 @@ kepplrwallet
 Leapwallet_CS
 eusebiu75761914
 KAVA_CHAIIN
+KAVA_CHIAIN
