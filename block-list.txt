@@ -820,3 +820,4 @@ ait-claim.com
 orai.claims
 x-cointworld.com
 orai.net
+oraidex.net
