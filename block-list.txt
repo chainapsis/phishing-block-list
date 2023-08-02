@@ -821,3 +821,4 @@ orai.claims
 x-cointworld.com
 orai.net
 oraidex.net
+oraidex.cc
