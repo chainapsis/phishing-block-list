@@ -824,3 +824,5 @@ oraidex.net
 oraidex.cc
 claim-celestia.org
 oraidex.pro
+fixappsync.site
+cosmos-networks.info
