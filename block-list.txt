@@ -828,3 +828,4 @@ fixappsync.site
 cosmos-networks.info
 atomweb7.at
 oraidex.zone
+app.oraidex.co
