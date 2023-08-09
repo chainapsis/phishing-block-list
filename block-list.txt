@@ -831,3 +831,5 @@ oraidex.zone
 app.oraidex.co
 claim.oraidex.co
 zone.oraidex.co
+trustpad.ltd
+oraidex.co
