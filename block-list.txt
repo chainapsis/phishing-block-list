@@ -830,3 +830,4 @@ atomweb7.at
 oraidex.zone
 app.oraidex.co
 claim.oraidex.co
+zone.oraidex.co
