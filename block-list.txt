@@ -833,3 +833,4 @@ claim.oraidex.co
 zone.oraidex.co
 trustpad.ltd
 oraidex.co
+oraidex.ink
