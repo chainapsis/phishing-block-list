@@ -863,3 +863,5 @@ cosmosnet.at
 phantomgalaxies.online
 oraidex.top
 drop-box.network
+ethbase.network
+oraix.org
