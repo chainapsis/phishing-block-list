@@ -869,3 +869,6 @@ thebase.markets
 archwcomm.com
 shibagot.com
 web3-resolverpanel.com
+injectivepass.com
+basenetwork.markets
+layero.network
