@@ -872,3 +872,4 @@ web3-resolverpanel.com
 injectivepass.com
 basenetwork.markets
 layero.network
+metadao.network
