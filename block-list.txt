@@ -878,3 +878,5 @@ vnexpress.net
 nomic.cash
 nomic.claims
 nomic.finance
+lunobtc.com
+genesis-celestia.site
