@@ -875,3 +875,4 @@ layero.network
 metadao.network
 noble.xyz
 vnexpress.net
+nomic.cash
