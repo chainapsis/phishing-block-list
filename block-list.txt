@@ -877,3 +877,4 @@ noble.xyz
 vnexpress.net
 nomic.cash
 nomic.claims
+nomic.finance
