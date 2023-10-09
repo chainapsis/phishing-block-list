@@ -881,3 +881,5 @@ nomic.finance
 lunobtc.com
 genesis-celestia.site
 thanhnien.vn
+cosmos-network.io
+cosmosnetworks.org
