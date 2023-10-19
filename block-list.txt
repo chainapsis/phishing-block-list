@@ -762,8 +762,6 @@ layerzero.expert
 osmossiz.zone
 cosmos-network.app
 pepe.enterprises
-boomchange.com
-boomchange.io
 terraweb2.at
 dropshib.net
 mymixer.io
