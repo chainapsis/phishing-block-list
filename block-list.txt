@@ -886,7 +886,6 @@ airdrop.ooo
 cosmos-networks.org
 terrapro.at
 terraweb.at
-vnexpress.net
 genesis-celastia.org
 archwaystore.tech
 gensea.io/celestia
