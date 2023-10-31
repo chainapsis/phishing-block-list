@@ -75,3 +75,4 @@ arbitrumsUS
 IKAVA_CHAIN
 KAVA_CHAlIN
 rhskinner_holly
+TH0RCain
