@@ -919,3 +919,4 @@ tia-celestiacommunity.quest
 atomtokens.org
 theterrafamily.com
 jackal-protocol.com
+cosmos-kr.network
