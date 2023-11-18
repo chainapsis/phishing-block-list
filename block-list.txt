@@ -923,3 +923,4 @@ cosmos-kr.network
 rewards-dydx.exchange
 app-umee.cc
 ournode.site
+osmossis-zone.xyz
