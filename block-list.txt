@@ -926,3 +926,5 @@ ournode.site
 osmossis-zone.xyz
 cricleswap.com
 adartis.com
+efiop-groups.online
+cosmosnet6.at
