@@ -924,3 +924,5 @@ rewards-dydx.exchange
 app-umee.cc
 ournode.site
 osmossis-zone.xyz
+cricleswap.com
+adartis.com
