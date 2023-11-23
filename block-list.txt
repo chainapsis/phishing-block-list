@@ -933,3 +933,6 @@ airdrop-pythnetwork.com
 atomosmo.live
 pythdrop.xyz
 rebuschain.net
+updated-coin.website
+nifitis.icu
+nodeblocks.org
