@@ -937,3 +937,4 @@ updated-coin.website
 nifitis.icu
 nodeblocks.org
 axeeleven.website
+osmossis-zone.com
