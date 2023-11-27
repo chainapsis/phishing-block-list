@@ -938,3 +938,4 @@ nifitis.icu
 nodeblocks.org
 axeeleven.website
 osmossis-zone.com
+pyth-network.app
