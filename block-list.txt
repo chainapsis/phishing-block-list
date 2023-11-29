@@ -940,3 +940,4 @@ axeeleven.website
 osmossis-zone.com
 pyth-network.app
 curvec.network
+claim-shadeprotocol.io
