@@ -941,3 +941,5 @@ osmossis-zone.com
 pyth-network.app
 curvec.network
 claim-shadeprotocol.io
+geteth.org
+pooleth.com
