@@ -943,3 +943,4 @@ curvec.network
 claim-shadeprotocol.io
 geteth.org
 pooleth.com
+celetisa.org
