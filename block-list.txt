@@ -945,3 +945,5 @@ geteth.org
 pooleth.com
 celetisa.org
 basesname.org
+oraix.io
+earn-thorchain.com
