@@ -947,3 +947,6 @@ celetisa.org
 basesname.org
 oraix.io
 earn-thorchain.com
+oraix.net
+syncswap-blue.xyz
+ycombinator.events
