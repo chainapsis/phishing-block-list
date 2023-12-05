@@ -952,3 +952,4 @@ syncswap-blue.xyz
 ycombinator.events
 oraix.cc
 claim-thorchain.org
+app-thorchain.org
