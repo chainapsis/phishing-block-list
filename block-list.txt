@@ -953,3 +953,4 @@ ycombinator.events
 oraix.cc
 claim-thorchain.org
 app-thorchain.org
+oraix.network
