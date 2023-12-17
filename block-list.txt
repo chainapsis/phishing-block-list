@@ -958,3 +958,4 @@ oraix.zone
 osmmossis-zone.com
 starknet-token.com
 oraix.dev
+skip.finance
