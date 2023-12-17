@@ -955,5 +955,6 @@ claim-thorchain.org
 app-thorchain.org
 oraix.network
 oraix.zone
+osmmossis-zone.com
 starknet-token.com
 oraix.dev
