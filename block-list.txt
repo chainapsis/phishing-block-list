@@ -956,3 +956,4 @@ app-thorchain.org
 oraix.network
 oraix.zone
 starknet-token.com
+oraix.dev
