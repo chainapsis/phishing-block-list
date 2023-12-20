@@ -81,3 +81,4 @@ dha_277
 keplrsupport2
 Keplr_Supp0rt
 OMOSI20_OSI
+OMOSI20_OSI
