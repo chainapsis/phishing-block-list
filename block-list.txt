@@ -966,3 +966,4 @@ cosmos-network.live
 multipad-next.online
 signup-manta.network
 eligible-chain.link
+orai.dev
