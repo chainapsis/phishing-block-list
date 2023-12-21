@@ -967,3 +967,5 @@ multipad-next.online
 signup-manta.network
 eligible-chain.link
 orai.dev
+portal.gifts
+cias.events
