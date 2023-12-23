@@ -969,3 +969,7 @@ eligible-chain.link
 orai.dev
 portal.gifts
 cias.events
+dogeminer.us
+app-sushi.win
+capsule-zskync.net
+free-apecoins.com
