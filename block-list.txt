@@ -973,3 +973,4 @@ dogeminer.us
 app-sushi.win
 capsule-zskync.net
 free-apecoins.com
+osmmossis-zone.org
