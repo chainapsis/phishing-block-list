@@ -974,3 +974,4 @@ app-sushi.win
 capsule-zskync.net
 free-apecoins.com
 osmmossis-zone.org
+oraidex.dev
