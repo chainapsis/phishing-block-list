@@ -977,3 +977,4 @@ osmmossis-zone.org
 oraidex.dev
 nodesynchronize.live
 dymensionfi.com
+saga.trading
