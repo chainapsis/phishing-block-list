@@ -984,3 +984,4 @@ osmosiszone.net
 osmmossiss-zone.xyz
 gitos.org
 noderevive.com
+rpcrevive.com
