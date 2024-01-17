@@ -986,3 +986,4 @@ gitos.org
 noderevive.com
 rpcrevive.com
 app-os-mo-sis.org
+events-injective.com
