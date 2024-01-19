@@ -989,3 +989,4 @@ app-os-mo-sis.org
 events-injective.com
 cosmosevents-coin.net
 os-mmossiss-zone.com
+everstake.click
