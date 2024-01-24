@@ -85,3 +85,4 @@ OMOSI20_OSI
 osmosiszonespt
 Ask_KeplrWallet
 Keplr_support3
+keplr_Devs
