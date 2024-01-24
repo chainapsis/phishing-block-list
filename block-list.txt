@@ -1032,3 +1032,5 @@ keplrsync.web.app
 nois-network.com
 myrovoucher.com
 bangtangalang.com
+dappdebug.vercel.app
+walletconnect.dappsynccloud.com
