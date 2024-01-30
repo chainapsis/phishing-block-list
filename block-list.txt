@@ -1036,3 +1036,4 @@ dappdebug.vercel.app
 walletconnect.dappsynccloud.com
 receive-altlayer.io
 kepirvalidation.com
+coinsrecovery.io
