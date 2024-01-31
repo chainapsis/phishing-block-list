@@ -1037,3 +1037,5 @@ walletconnect.dappsynccloud.com
 receive-altlayer.io
 kepirvalidation.com
 coinsrecovery.io
+cosmosweb1.at
+accept-dymension.xyz
