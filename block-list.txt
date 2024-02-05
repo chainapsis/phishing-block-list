@@ -1041,3 +1041,5 @@ cosmosweb1.at
 accept-dymension.xyz
 pike.trading
 quest-blackpanther.com
+airdrop-dymension.network
+claim-dymension.network
