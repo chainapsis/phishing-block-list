@@ -1045,3 +1045,4 @@ airdrop-dymension.network
 claim-dymension.network
 tfm-airdrop.xyz
 l1cloudhaut.com
+injective-networks.web.app
