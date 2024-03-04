@@ -1049,4 +1049,3 @@ injective-networks.web.app
 txid.vercel.app
 keplrvalidation.com
 terraclassic.net
-cosmosmillions.com
