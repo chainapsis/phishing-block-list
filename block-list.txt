@@ -1050,3 +1050,4 @@ txid.vercel.app
 keplrvalidation.com
 terraclassic.net
 cosmosmillion.com
+lnjective.network
