@@ -1054,3 +1054,4 @@ lnjective.network
 web3req.com
 oraichain.net
 oraichain.io
+oraichain.network
