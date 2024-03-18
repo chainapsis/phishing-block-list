@@ -1055,3 +1055,4 @@ oraichain.net
 oraichain.io
 oraichain.network
 thanhnien.vn
+oraichain.dev
