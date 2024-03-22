@@ -1059,3 +1059,6 @@ oraichain.dev
 swiftwebrectifier.online
 oraidex.llc
 oraichain.xyz
+nim-dymension.xyz
+nim-network.com
+vote.nimnetworks.co
