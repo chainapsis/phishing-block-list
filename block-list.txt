@@ -1063,3 +1063,4 @@ nim-dymension.xyz
 nim-network.com
 vote.nimnetworks.co
 reward.clm.rest
+oraichain.org
