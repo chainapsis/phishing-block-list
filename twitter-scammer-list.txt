@@ -89,3 +89,4 @@ keplr_Devs
 NeutronNet
 Leap_cosmosDev
 dymnsion
+KeplrRender
