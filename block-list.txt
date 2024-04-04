@@ -1069,3 +1069,6 @@ cosmosweb5.at
 merge-fetch.site
 claim-havacoin.xyz
 aragonswap.io
+kpapplicationhub.pages.dev
+bonuses-ethena.com
+dapp.betanamada.net
