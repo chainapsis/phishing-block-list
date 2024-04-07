@@ -1072,3 +1072,4 @@ aragonswap.io
 kpapplicationhub.pages.dev
 bonuses-ethena.com
 dapp.betanamada.net
+cosmosweb2.at
