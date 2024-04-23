@@ -1086,3 +1086,4 @@ cosmosweb7.at
 cosmos-networks.net
 sonikcoin.com
 blocknodesystem.pages.dev
+wallet.member-zone.io
