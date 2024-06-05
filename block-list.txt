@@ -1090,3 +1090,4 @@ wallet.member-zone.io
 astration.io
 airdrop-sagaxyx.com
 connect-sagaxyz.com
+join-akash.app
