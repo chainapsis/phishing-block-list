@@ -1091,3 +1091,4 @@ astration.io
 airdrop-sagaxyx.com
 connect-sagaxyz.com
 join-akash.app
+osmos.zone
