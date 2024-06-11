@@ -1092,3 +1092,4 @@ airdrop-sagaxyx.com
 connect-sagaxyz.com
 join-akash.app
 osmos.zone
+osmosis.web3-dv.app
