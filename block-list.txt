@@ -873,7 +873,6 @@ injectivepass.com
 basenetwork.markets
 layero.network
 metadao.network
-noble.xyz
 nomic.cash
 nomic.claims
 nomic.finance
