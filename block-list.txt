@@ -1099,3 +1099,5 @@ akashquest.com
 osmos.zone
 osmosis.web3-dv.app
 stride.exchange
+cosmosweb8.at
+cosmosweb9.at
