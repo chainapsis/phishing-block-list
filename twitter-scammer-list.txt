@@ -100,3 +100,5 @@ keplrwalletDevx
 KeplrSuport1
 keplr_app
 KeplrWalletLive
+KeplrRendr
+Keplr_Apps
