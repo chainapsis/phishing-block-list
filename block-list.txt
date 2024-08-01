@@ -1102,3 +1102,4 @@ stride.exchange
 cosmosweb8.at
 cosmosweb9.at
 cosmosweb3.at
+cosmoweb8.at
