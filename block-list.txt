@@ -1127,4 +1127,5 @@ teiegram.tools
 airdrop.wormhole.io
 quest.blackpantherfis.trade
 sqiudrouter.com
-app.squirtrrouter.coweb3fx.gobitexchange.com
+app.squirtrrouter.com
+web3fx.gobitexchange.com
