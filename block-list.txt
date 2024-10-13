@@ -1129,3 +1129,4 @@ quest.blackpantherfis.trade
 sqiudrouter.com
 app.squirtrrouter.com
 web3fx.gobitexchange.com
+cosmoweb7.at
