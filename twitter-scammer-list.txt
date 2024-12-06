@@ -109,3 +109,4 @@ atstenterp30877
 keyshiajones124
 KeplrAppSupport
 keplrwalletM0D_
+keplrsupport_v1
