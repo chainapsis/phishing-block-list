@@ -1158,3 +1158,4 @@ keplr-apps.net
 connect-osmosis.com
 cosmo2.at
 astrovault.cc
+web3auth-restore.net
