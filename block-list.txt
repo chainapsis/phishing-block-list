@@ -1160,3 +1160,5 @@ cosmo2.at
 astrovault.cc
 web3auth-restore.net
 cosmo1.at
+squidrocuter.com
+app.squidrocuter.com
