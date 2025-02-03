@@ -1168,3 +1168,4 @@ axvdex.com
 ecosmo2.at
 ecosmo3.at
 axvdex.app
+axvdex.dev
