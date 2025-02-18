@@ -1170,3 +1170,4 @@ ecosmo3.at
 axvdex.app
 axvdex.dev
 keplrweb.live
+ecosmo7.at
