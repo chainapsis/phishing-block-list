@@ -1184,3 +1184,4 @@ cosmoweb.at
 protocoltool.net
 ecosmo5.at
 ecosmo1.at
+wcosmo.at
