@@ -1,4 +1,5 @@
 kcosmo.at
+ycosmo.at
 ncosmo.at
 rcosmo.at
 ccosmo.at
