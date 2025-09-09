@@ -1207,4 +1207,4 @@ wcosmo.at
 nebula7.at
 blockvillage.org
 buy-sushi.com
-https://wallet.kepler.app.org-v3.cyou/
+wallet.kepler.app.org-v3.cyou
