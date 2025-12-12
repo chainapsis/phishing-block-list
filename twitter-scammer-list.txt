@@ -110,3 +110,4 @@ keyshiajones124
 KeplrAppSupport
 keplrwalletM0D_
 keplrsupport_v1
+keplr_supprt24
