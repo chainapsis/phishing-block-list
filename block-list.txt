@@ -1233,3 +1233,4 @@ nebula7.xyz
 osmogifts.com
 atomgifts.com
 rpcchainvault.replit.app
+app-osmosis.com
