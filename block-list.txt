@@ -1250,4 +1250,4 @@ atomgifts.com
 rpcchainvault.replit.app
 app-osmosis.com
 Millions2.at
-cosmos67.xyz/
+cosmos67.xyz
