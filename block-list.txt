@@ -2,6 +2,7 @@
 osmohub.com
 terraplay.at
 cosmo02.xyz
+atom02.xyz
 app-osmosis.io
 network20a.xyz
 recosmo.xyz
