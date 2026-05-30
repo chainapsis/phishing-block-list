@@ -1264,3 +1264,5 @@ bafybeigft5pnwg4fqdbdcxrew7sheys2hhi4u63dnzqyocmyzuicl54r7u.ipfs.inbrowser.link
 synthetic-test.invalid
 atomplay.at
 recosmo2.xyz
+cosmos67.at
+recosmo7.xyz
