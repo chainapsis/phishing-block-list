@@ -1267,4 +1267,3 @@ recosmo2.xyz
 cosmos67.at
 recosmo7.xyz
 atomgame.at
-blocklist.keplr.app
