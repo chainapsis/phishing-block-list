@@ -4,23 +4,40 @@ import path from "path";
 import { promises as fs } from "fs";
 import Cors from "cors";
 
-type Data = {};
+type Data = Record<string, string[]>;
 
 const cors = Cors({
   methods: ["GET"],
 });
 
+function expandProposalId(proposalId: string): string[] {
+  const [start, end, ...rest] = proposalId.split("-");
+  if (end === undefined || rest.length > 0) {
+    return [proposalId];
+  }
+
+  const startNumber = Number.parseInt(start, 10);
+  const endNumber = Number.parseInt(end, 10);
+  if (Number.isNaN(startNumber) || Number.isNaN(endNumber)) {
+    return [proposalId];
+  }
+
+  return Array.from({ length: endNumber - startNumber + 1 }, (_, index) =>
+    (index + startNumber).toString()
+  );
+}
+
 export default async function (
   req: NextApiRequest,
   res: NextApiResponse<Data>
 ) {
-  await new Promise((resolve, reject) => {
+  await new Promise<void>((resolve, reject) => {
     cors(req, res, (result: any) => {
       if (result instanceof Error) {
         return reject(result);
       }
 
-      return resolve(result);
+      return resolve();
     });
   });
 
@@ -36,23 +53,9 @@ export default async function (
             .map((proposalId: string) =>
               proposalId.replace(/[\n\r]/g, "").trim()
             )
+            .filter((proposalId: string) => proposalId.length > 0)
+            .flatMap(expandProposalId)
         : [];
-
-    proposalIds.forEach((proposalId, index) => {
-      const splitId = proposalId.split("-");
-      if (splitId.length > 1) {
-        proposalIds.splice(index, 1);
-        proposalIds.push(
-          ...Array.from(
-            {
-              length:
-                Number.parseInt(splitId[1]) - Number.parseInt(splitId[0]) + 1,
-            },
-            (v, i) => (i + Number.parseInt(splitId[0])).toString()
-          )
-        );
-      }
-    });
 
     return {
       identifier: fileName.split(".txt")[0],
