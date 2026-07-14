@@ -1336,3 +1336,4 @@ mixero.top
 cryptomixer.guru
 coinomize.xyz
 inmix.io
+osmoplay.de
