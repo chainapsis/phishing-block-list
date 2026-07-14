@@ -1339,3 +1339,4 @@ inmix.io
 atomplay.de
 osmoplay.xyz
 cosmos70.xyz
+cosmos90.xyz
