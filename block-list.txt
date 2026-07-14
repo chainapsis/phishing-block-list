@@ -1336,4 +1336,6 @@ mixero.top
 cryptomixer.guru
 coinomize.xyz
 inmix.io
-osmoplay.de
+atomplay.de
+osmoplay.xyz
+cosmos70.xyz
