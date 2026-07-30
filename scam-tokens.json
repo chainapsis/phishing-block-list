@@ -1,0 +1,60 @@
+{
+  "tokens": [
+    {
+      "chainId": "cosmoshub-4",
+      "denom": "ibc/CC28B03D507B1C0E43B1A2EE7F72F1146510A764803A86E3D1361A7C384E1E58",
+      "baseDenom": "uusdc",
+      "path": "transfer/channel-141/transfer/channel-510/transfer/channel-6",
+      "ticker": "USDC",
+      "coinDenom": "UUSDC"
+    },
+    {
+      "chainId": "cosmoshub-4",
+      "denom": "ibc/0263614DB7EA399CE05AA260086566B2834786353F16D9B96FA9AD73FADF4BE8",
+      "baseDenom": "uusdc",
+      "path": "transfer/channel-91/transfer/channel-3/transfer/channel-510/transfer/channel-6",
+      "ticker": "USDC",
+      "coinDenom": "UUSDC"
+    },
+    {
+      "chainId": "osmosis-1",
+      "denom": "ibc/0BF44F64B0BE7FECECA3182189E81FC5335D2A7A0A31818A1A599F2A597AC46D",
+      "baseDenom": "uusdc",
+      "path": "transfer/channel-251/transfer/channel-627/transfer/channel-510/transfer/channel-6",
+      "ticker": "USDC",
+      "coinDenom": "uusdc"
+    },
+    {
+      "chainId": "osmosis-1",
+      "denom": "ibc/D6C09207E90144F18B02E7F728B2E0CC111F0C3D596049EF0443B1EB500AF581",
+      "baseDenom": "uusdc",
+      "path": "transfer/channel-208/transfer/channel-2/transfer/channel-91/transfer/channel-3/transfer/channel-510/transfer/channel-6",
+      "ticker": "USDC",
+      "coinDenom": "uusdc"
+    },
+    {
+      "chainId": "osmosis-1",
+      "denom": "ibc/F4E5A65D51193B1B810DB7962ED385868B39B29B630CFA8E795A3F90B0FD10CF",
+      "baseDenom": "uusdc",
+      "path": "transfer/channel-208/transfer/channel-42/transfer/channel-6/transfer/channel-510/transfer/channel-6",
+      "ticker": "USDC",
+      "coinDenom": "uusdc"
+    },
+    {
+      "chainId": "osmosis-1",
+      "denom": "ibc/C87E63E4798A43D182B8513F91360363315C602C25B98D1E497A3A6F7AA66473",
+      "baseDenom": "uusdc",
+      "path": "transfer/channel-510/transfer/channel-6",
+      "ticker": "USDC",
+      "coinDenom": "uusdc"
+    },
+    {
+      "chainId": "neutron-1",
+      "denom": "ibc/08FF2A38AE66FF1AB0D95D1C889E6F4A01368A6B0739AD23F842D91C7A3D6945",
+      "baseDenom": "uusdc",
+      "path": "transfer/channel-1/transfer/channel-141/transfer/channel-510/transfer/channel-6",
+      "ticker": "USDC",
+      "coinDenom": "UUSDC"
+    }
+  ]
+}
