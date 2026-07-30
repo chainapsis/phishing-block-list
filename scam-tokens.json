@@ -191,6 +191,14 @@
       "path": "transfer/channel-108715",
       "ticker": "INJ",
       "coinDenom": "inj"
+    },
+    {
+      "chainId": "osmosis-1",
+      "denom": "ibc/DC17496D977BD281E754671A738308AA9C729EB2121436DF66FD316AB55D7CB4",
+      "baseDenom": "ukava",
+      "path": "transfer/channel-143/transfer/channel-0/transfer/channel-424",
+      "ticker": "KAVA",
+      "coinDenom": "ukava"
     }
   ]
 }
