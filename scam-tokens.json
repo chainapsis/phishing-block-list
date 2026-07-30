@@ -318,6 +318,20 @@
       "baseDenom": "factory/osmo1wypsnn7n5hsd2kvk424qv9yuretz9m6ky8gf6c/uatomone",
       "path": "transfer/channel-141",
       "coinDenom": "uatomone"
+    },
+    {
+      "chainId": "cosmoshub-4",
+      "denom": "ibc/DA14F3C8703CE11DB2616A1D7BA4380918EE031F1E7FA7F2EB090A140DD0EBFD",
+      "baseDenom": "factory/osmo1agaf7984z233pppmu2jxgpy8239atsj45vwv80/uusdc",
+      "path": "transfer/channel-141",
+      "coinDenom": "uusdc"
+    },
+    {
+      "chainId": "cosmoshub-4",
+      "denom": "ibc/7132B0226E8B0297DB04F37D365CC3932CB9377A4B371E61EC0E553A7493DA0D",
+      "baseDenom": "factory/osmo1agaf7984z233pppmu2jxgpy8239atsj45vwv80/uuuusdcd",
+      "path": "transfer/channel-141",
+      "coinDenom": "uuuusdcd"
     }
   ]
 }
