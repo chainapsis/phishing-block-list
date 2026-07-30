@@ -183,6 +183,14 @@
       "path": "transfer/channel-1334",
       "ticker": "OSMO",
       "coinDenom": "OSMO"
+    },
+    {
+      "chainId": "osmosis-1",
+      "denom": "ibc/AA34E3EA02C5CAA4F80DD5CEAB8E73CC663F00C6034BD6D2B87E65EB08D065C7",
+      "baseDenom": "inj",
+      "path": "transfer/channel-108715",
+      "ticker": "INJ",
+      "coinDenom": "inj"
     }
   ]
 }
