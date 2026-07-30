@@ -332,6 +332,13 @@
       "baseDenom": "factory/osmo1agaf7984z233pppmu2jxgpy8239atsj45vwv80/uuuusdcd",
       "path": "transfer/channel-141",
       "coinDenom": "uuuusdcd"
+    },
+    {
+      "chainId": "cosmoshub-4",
+      "denom": "ibc/7AF5C8655C0055A38DECA1656690DF3AB8EEAE1C1DE6B35AAC79253869CB65EB",
+      "baseDenom": "factory/neutron1jsqc5lfjth2w5fl0wjlgxfeqaayhfxm4qga9x9/ATOMREWARD",
+      "path": "transfer/channel-569",
+      "coinDenom": "atomsdrop.com"
     }
   ]
 }
