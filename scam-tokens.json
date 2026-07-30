@@ -55,6 +55,46 @@
       "path": "transfer/channel-1/transfer/channel-141/transfer/channel-510/transfer/channel-6",
       "ticker": "USDC",
       "coinDenom": "UUSDC"
+    },
+    {
+      "chainId": "cosmoshub-4",
+      "denom": "ibc/73C57CB825699E1C2D34DC90044C458FAAED0BFCFF186692AF1E69A78309F8DB",
+      "baseDenom": "uatom",
+      "path": "transfer/channel-436/transfer/channel-0",
+      "ticker": "ATOM",
+      "coinDenom": "UATOM"
+    },
+    {
+      "chainId": "cosmoshub-4",
+      "denom": "ibc/07D6E70DC599BBD2A768CDBA64DF4CAD1DC852EA3DE5453A64C66CBA9689350C",
+      "baseDenom": "ukava",
+      "path": "transfer/channel-436",
+      "ticker": "KAVA",
+      "coinDenom": "UKAVA"
+    },
+    {
+      "chainId": "cosmoshub-4",
+      "denom": "ibc/9B5CC718CCB4BDAF2E71A65BC5E32AE98AD519BB268ACDCDF08AC1E742A03DB4",
+      "baseDenom": "uosmo",
+      "path": "transfer/channel-436/transfer/channel-1",
+      "ticker": "OSMO",
+      "coinDenom": "UOSMO"
+    },
+    {
+      "chainId": "osmosis-1",
+      "denom": "ibc/778F0504E33BBB66D0950FE12E29BA81C258ED0A10CCEF9CB0096BA9E22C5D61",
+      "baseDenom": "uosmo",
+      "path": "transfer/channel-0/transfer/channel-436/transfer/channel-1",
+      "ticker": "OSMO",
+      "coinDenom": "uosmo"
+    },
+    {
+      "chainId": "juno-1",
+      "denom": "ibc/2C4920CAD91B6FF7E2AFFFA260083FD0B4178B80D190F0F25D771B834436C108",
+      "baseDenom": "uosmo",
+      "path": "transfer/channel-0/transfer/channel-0/transfer/channel-436/transfer/channel-1",
+      "ticker": "OSMO",
+      "coinDenom": "uosmo"
     }
   ]
 }
