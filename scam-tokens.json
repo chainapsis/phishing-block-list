@@ -95,6 +95,46 @@
       "path": "transfer/channel-0/transfer/channel-0/transfer/channel-436/transfer/channel-1",
       "ticker": "OSMO",
       "coinDenom": "uosmo"
+    },
+    {
+      "chainId": "cosmoshub-4",
+      "denom": "ibc/3C1666B4FBF2492D2115A2501957F28D5A29B596DB29BBFC3A290C9B8D57EE22",
+      "baseDenom": "ukava",
+      "path": "transfer/channel-277/transfer/channel-1/transfer/channel-413",
+      "ticker": "KAVA",
+      "coinDenom": "UKAVA"
+    },
+    {
+      "chainId": "osmosis-1",
+      "denom": "ibc/660B8B65DDF3F728B7A9633961B6222B0FECAAA991C9387C8F4303761A83C3F4",
+      "baseDenom": "ukava",
+      "path": "transfer/channel-143/transfer/channel-16",
+      "ticker": "KAVA",
+      "coinDenom": "ukava"
+    },
+    {
+      "chainId": "osmosis-1",
+      "denom": "ibc/78E63FA349688B7A8A57B64958462BE079FF5AF3DAD0B170867F6D351C6E9BAC",
+      "baseDenom": "usdx",
+      "path": "transfer/channel-143/transfer/channel-19",
+      "ticker": "USDX",
+      "coinDenom": "usdx"
+    },
+    {
+      "chainId": "osmosis-1",
+      "denom": "ibc/124AB5B84E9EB722A71B270BE6A5478191302F3AF92337CA0D23C56DC120537B",
+      "baseDenom": "ukava",
+      "path": "transfer/channel-413",
+      "ticker": "KAVA",
+      "coinDenom": "ukava"
+    },
+    {
+      "chainId": "osmosis-1",
+      "denom": "ibc/B67CC479EA0488E40ACACC526A71C5D37D0D209445556F890BCA4247C6C7515F",
+      "baseDenom": "usdx",
+      "path": "transfer/channel-143/transfer/channel-25",
+      "ticker": "USDX",
+      "coinDenom": "usdx"
     }
   ]
 }
