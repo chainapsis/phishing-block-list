@@ -339,6 +339,83 @@
       "baseDenom": "factory/neutron1jsqc5lfjth2w5fl0wjlgxfeqaayhfxm4qga9x9/ATOMREWARD",
       "path": "transfer/channel-569",
       "coinDenom": "atomsdrop.com"
+    },
+    {
+      "chainId": "cosmoshub-4",
+      "denom": "ibc/3EF74C1B9F5C65F2F9619B0C5A35135624BD15759D016678F86485DD1C5AA24A",
+      "baseDenom": "cw20:neutron1tcl6d8vnhdeljgvm6ylggf7sn89p6yj92qr24jcpcqjz8vkygerse5k9tx",
+      "path": "transfer/channel-1718",
+      "coinDenom": "ATOMREWARD"
+    },
+    {
+      "chainId": "cosmoshub-4",
+      "denom": "ibc/75D71FC4B410C128F0224795BEB6D74ABBDAC97C11D956938DE34CCF149153BE",
+      "baseDenom": "cw20:neutron1x7elz6pn5ylvxdlrl5tuff0qs29anryxsczdpk0e2t4tvemd5psqxem5h2",
+      "path": "transfer/channel-1718",
+      "coinDenom": "ATOMDROPS"
+    },
+    {
+      "chainId": "cosmoshub-4",
+      "denom": "ibc/915992C8486D299941292A913640167F0BA02DC2F599BFFED0732CE932C2FCC4",
+      "baseDenom": "cw20:neutron10qcewayet2sv54azac75y23ruxnsjqzl7eaul50ap9tz2tlv23pqnzdkl5",
+      "path": "transfer/channel-1718",
+      "coinDenom": "COSMOSDROP"
+    },
+    {
+      "chainId": "cosmoshub-4",
+      "denom": "ibc/F40C296CD2EF2B419A2062DB9A1C54D227549634C92FF8627AC9D93A3878B7B2",
+      "baseDenom": "cw20:neutron14j4t5hm2304l5qajyx26v06mu6sny6wj2ypdnrv8qafqrthmjp0qk9nsuv",
+      "path": "transfer/channel-1718",
+      "coinDenom": "ATOMGIVES"
+    },
+    {
+      "chainId": "cosmoshub-4",
+      "denom": "ibc/88C8D98E544B20319F69F3A7E0F9E0FB3D4163DF2FFCAF7B603B42DE9E0EC333",
+      "baseDenom": "cw20:neutron15erx8xrlhentrzkud2zj6dywp23vkdfmed2ztyl3f5hjm39myn3shrqasq",
+      "path": "transfer/channel-1434",
+      "coinDenom": "COSMOSREWARD"
+    },
+    {
+      "chainId": "cosmoshub-4",
+      "denom": "ibc/B0845B48D3CA9F66B4E2DD610B39E36A7A7CFACA2629D9BA880241AE5688B61D",
+      "baseDenom": "cw20:neutron1l8eztf2kkk4mvhgatxwl0fgt2u2583yc4hn8nffsrxtsw737lrzsgefpdr",
+      "path": "transfer/channel-1718",
+      "coinDenom": "ATOMAIRDROP"
+    },
+    {
+      "chainId": "cosmoshub-4",
+      "denom": "ibc/949FA92C71714DCF9C92CD0B94D53EBA22044C7D64C2B7100722C74BC51398E4",
+      "baseDenom": "cw20:neutron1ulht432q826arup9lee28prr0aprxv8adtvyw7ftspurvu6u59ts3xz38v",
+      "path": "transfer/channel-1718",
+      "coinDenom": "COSMOSDROP"
+    },
+    {
+      "chainId": "osmosis-1",
+      "denom": "ibc/2A35125E4B19EE00B6115DE057A5E8DBE0760F618CB80C9A28AE3CDD396A0334",
+      "baseDenom": "cw20:neutron15erx8xrlhentrzkud2zj6dywp23vkdfmed2ztyl3f5hjm39myn3shrqasq",
+      "path": "transfer/channel-0/transfer/channel-1434",
+      "coinDenom": "COSMOSREWARD"
+    },
+    {
+      "chainId": "osmosis-1",
+      "denom": "ibc/4342839E63141D4DD9EE9A77E1FF1EE5F7C7E9E3CDDC860108FF1DBB48EBB547",
+      "baseDenom": "cw20:neutron1l8eztf2kkk4mvhgatxwl0fgt2u2583yc4hn8nffsrxtsw737lrzsgefpdr",
+      "path": "transfer/channel-0/transfer/channel-1718",
+      "coinDenom": "ATOMAIRDROP"
+    },
+    {
+      "chainId": "juno-1",
+      "denom": "ibc/C2940FD43A70B8C88B2D9B91F3891A38E60DC74DFDAF70A59179DEC10F3B8B59",
+      "baseDenom": "cw20:neutron1l8eztf2kkk4mvhgatxwl0fgt2u2583yc4hn8nffsrxtsw737lrzsgefpdr",
+      "path": "transfer/channel-1/transfer/channel-1718",
+      "coinDenom": "ATOMAIRDROP"
+    },
+    {
+      "chainId": "neutron-1",
+      "denom": "ibc/7A7C165E837D79332150AB529FDA205B0766387A8EF1D632F8959F4E22E0E6E5",
+      "baseDenom": "cw20:neutron15erx8xrlhentrzkud2zj6dywp23vkdfmed2ztyl3f5hjm39myn3shrqasq",
+      "path": "transfer/channel-1/transfer/channel-1434",
+      "coinDenom": "COSMOSREWARD"
     }
   ]
 }
