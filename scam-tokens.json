@@ -187,6 +187,30 @@
       "baseDenom": "cw20:neutron1ulht432q826arup9lee28prr0aprxv8adtvyw7ftspurvu6u59ts3xz38v",
       "path": "transfer/channel-1718",
       "coinDenom": "COSMOSDROP"
+    },
+    {
+      "denom": "ibc/76BCC40D0E1B4B856679F06EC3E4C8C5231EC5F09939024CD6F66D781E608A94",
+      "baseDenom": "factory/juno1tm748xtl4wmxfn5hqn6r66tzv0csc3qsey04st/uatom",
+      "path": "transfer/channel-207",
+      "coinDenom": "uatom"
+    },
+    {
+      "denom": "ibc/EEE9B4C0A2D5FF24BC8659E183588D5FE149E2C7B73E6FC79B42D94F206132E8",
+      "baseDenom": "factory/juno1tm748xtl4wmxfn5hqn6r66tzv0csc3qsey04st/uatomdrops",
+      "path": "transfer/channel-207",
+      "coinDenom": "uatomdrops"
+    },
+    {
+      "denom": "ibc/4F22BEB1BE814462DFD5119D16B073C25B6A9D7736D21CEC38CF6C35C4C5D1C8",
+      "baseDenom": "factory/juno1tm748xtl4wmxfn5hqn6r66tzv0csc3qsey04st/uatatom",
+      "path": "transfer/channel-207",
+      "coinDenom": "uatatom"
+    },
+    {
+      "denom": "ibc/5CD713B42985B1885C0AEDF44167FA01D9456B338DD152ED97070BBA962C2DC7",
+      "baseDenom": "factory/juno1tm748xtl4wmxfn5hqn6r66tzv0csc3qsey04st/tuatom",
+      "path": "transfer/channel-207",
+      "coinDenom": "tuatom"
     }
   ],
   "juno-1": [
