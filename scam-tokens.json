@@ -159,6 +159,22 @@
       "path": "transfer/channel-170",
       "ticker": "USDC",
       "coinDenom": "uusdc"
+    },
+    {
+      "chainId": "osmosis-1",
+      "denom": "ibc/6AA63C238249021CBDDF32C50AB77FAFE440B04B60800CAA21BD1EC389D7057F",
+      "baseDenom": "ukava",
+      "path": "transfer/channel-213",
+      "ticker": "KAVA",
+      "coinDenom": "ukava"
+    },
+    {
+      "chainId": "osmosis-1",
+      "denom": "ibc/CA5A5326E05B8358F9C1C295B51C263293621662F578CE9B37B470AC34C87310",
+      "baseDenom": "uusd",
+      "path": "transfer/channel-213/transfer/channel-4",
+      "ticker": "USD",
+      "coinDenom": "uusd"
     }
   ]
 }
