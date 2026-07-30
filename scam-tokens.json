@@ -175,6 +175,14 @@
       "path": "transfer/channel-213/transfer/channel-4",
       "ticker": "USD",
       "coinDenom": "uusd"
+    },
+    {
+      "chainId": "cosmoshub-4",
+      "denom": "ibc/B5CE2E04D3AD7D8F9A265ECEACA9397C2619EED0B0A567B754EC1DF0214812C2",
+      "baseDenom": "OSMO",
+      "path": "transfer/channel-1334",
+      "ticker": "OSMO",
+      "coinDenom": "OSMO"
     }
   ]
 }
