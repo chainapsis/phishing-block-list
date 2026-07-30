@@ -276,6 +276,48 @@
       "baseDenom": "factory/juno1tm748xtl4wmxfn5hqn6r66tzv0csc3qsey04st/uusdc",
       "path": "transfer/channel-42",
       "coinDenom": "uusdc"
+    },
+    {
+      "chainId": "cosmoshub-4",
+      "denom": "ibc/F9E07DBD5DC03D88E18DE89CB127E0B7CAF5B9A9893A7FD6148E4CC951D1536C",
+      "baseDenom": "factory/juno1wypsnn7n5hsd2kvk424qv9yuretz9m6k6wcztk/uairdrop67",
+      "path": "transfer/channel-207",
+      "coinDenom": "uairdrop67"
+    },
+    {
+      "chainId": "cosmoshub-4",
+      "denom": "ibc/18EF008D8D688A389D60C182A2DA87330A2DF685C67410A3B981D3DE07455C91",
+      "baseDenom": "factory/juno1wypsnn7n5hsd2kvk424qv9yuretz9m6k6wcztk/uatom2",
+      "path": "transfer/channel-207",
+      "coinDenom": "uatom2"
+    },
+    {
+      "chainId": "cosmoshub-4",
+      "denom": "ibc/4C536C3F24D36026E177954A6DECB831D27802FFBFDDB2431902C2C1D268F7A9",
+      "baseDenom": "factory/juno1wypsnn7n5hsd2kvk424qv9yuretz9m6k6wcztk/uatomone",
+      "path": "transfer/channel-207",
+      "coinDenom": "uatomone"
+    },
+    {
+      "chainId": "cosmoshub-4",
+      "denom": "ibc/D0D1E18AC8420CCA4CD68C32F49A32557D8C1CF30643EE1866EF33B2FCC33534",
+      "baseDenom": "factory/juno1wypsnn7n5hsd2kvk424qv9yuretz9m6k6wcztk/uuatom",
+      "path": "transfer/channel-207",
+      "coinDenom": "uuatom"
+    },
+    {
+      "chainId": "cosmoshub-4",
+      "denom": "ibc/A0FD271122ABA9BB59F4DADBCA1E29C297AD837C83E6D53A93ECBAA65DE8676C",
+      "baseDenom": "factory/osmo1wypsnn7n5hsd2kvk424qv9yuretz9m6ky8gf6c/uairdropusdc",
+      "path": "transfer/channel-141",
+      "coinDenom": "uairdropusdc"
+    },
+    {
+      "chainId": "cosmoshub-4",
+      "denom": "ibc/F6F552D2E3D0B9F9F4848D3D91AA52BD6D5E5EFF39A80BBCEEDFB24FEBE05C6F",
+      "baseDenom": "factory/osmo1wypsnn7n5hsd2kvk424qv9yuretz9m6ky8gf6c/uatomone",
+      "path": "transfer/channel-141",
+      "coinDenom": "uatomone"
     }
   ]
 }
