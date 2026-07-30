@@ -1,0 +1,28 @@
+{
+  "cosmoshub-4": [
+    {
+      "channel": "channel-424",
+      "claims": "kava_2222-10"
+    },
+    {
+      "channel": "channel-436",
+      "claims": "kava_2222-10"
+    },
+    {
+      "channel": "channel-1334",
+      "claims": "osmosis-1"
+    }
+  ],
+  "juno-1": [
+    {
+      "channel": "channel-170",
+      "claims": "axelar-dojo-1"
+    }
+  ],
+  "osmosis-1": [
+    {
+      "channel": "channel-510",
+      "claims": "phoenix-1"
+    }
+  ]
+}
