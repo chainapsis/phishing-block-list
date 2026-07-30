@@ -135,6 +135,30 @@
       "path": "transfer/channel-143/transfer/channel-25",
       "ticker": "USDX",
       "coinDenom": "usdx"
+    },
+    {
+      "chainId": "cosmoshub-4",
+      "denom": "ibc/B758A64BD39C22CC3B8EB4C264B29F2BEEC206DD7484E7EA6AA9C162019B81D3",
+      "baseDenom": "uusdc",
+      "path": "transfer/channel-207/transfer/channel-170",
+      "ticker": "USDC",
+      "coinDenom": "UUSDC"
+    },
+    {
+      "chainId": "osmosis-1",
+      "denom": "ibc/558B45B7C88DCE88F3EB226942F6ABCA071292FF0738BC73AAEBF1E2327F46E9",
+      "baseDenom": "uusdc",
+      "path": "transfer/channel-42/transfer/channel-170",
+      "ticker": "USDC",
+      "coinDenom": "uusdc"
+    },
+    {
+      "chainId": "juno-1",
+      "denom": "ibc/BEB4FA3D7D148747E02FE2CF6579324D29E701E068ED6E983C33F6D8E7243F27",
+      "baseDenom": "uusdc",
+      "path": "transfer/channel-170",
+      "ticker": "USDC",
+      "coinDenom": "uusdc"
     }
   ]
 }
