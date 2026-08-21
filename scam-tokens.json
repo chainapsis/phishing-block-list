@@ -391,11 +391,5 @@
       "path": "transfer/channel-0/transfer/channel-1718",
       "coinDenom": "ATOMAIRDROP"
     },
-    {
-      "denom": "factory/osmo147h5x9pcj7lm0cttlaefx6sqq5vdfnmwfcqxkmjd7exqm9gc7grqhr75m0/alloyed/allUSDC",
-      "baseDenom": "factory/osmo147h5x9pcj7lm0cttlaefx6sqq5vdfnmwfcqxkmjd7exqm9gc7grqhr75m0/alloyed/allUSDC",
-      "path": "",
-      "coinDenom": "allUSDC"
-    }
   ]
 }
