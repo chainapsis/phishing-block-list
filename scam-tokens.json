@@ -235,15 +235,6 @@
       "coinDenom": "ATOMAIRDROP"
     }
   ],
-  "kava_2222-10": [
-    {
-      "denom": "ibc/166E190F261672B152D2480DC687B5C1FD275A107B1A023DBD7A3AD045AC3055",
-      "baseDenom": "inj",
-      "path": "transfer/channel-9/transfer/channel-122",
-      "ticker": "INJ",
-      "coinDenom": "inj"
-    }
-  ],
   "neutron-1": [
     {
       "denom": "ibc/08FF2A38AE66FF1AB0D95D1C889E6F4A01368A6B0739AD23F842D91C7A3D6945",
