@@ -213,6 +213,14 @@
       "coinDenom": "tuatom"
     }
   ],
+  "injective-1": [
+    {
+      "denom": "factory/inj10y97meexththnfm3wf7pc8jtw2uxx7xrgp0sgz/USDT",
+      "baseDenom": "factory/inj10y97meexththnfm3wf7pc8jtw2uxx7xrgp0sgz/USDT",
+      "path": "",
+      "coinDenom": "USDT"
+    }
+  ],
   "juno-1": [
     {
       "denom": "ibc/2C4920CAD91B6FF7E2AFFFA260083FD0B4178B80D190F0F25D771B834436C108",
