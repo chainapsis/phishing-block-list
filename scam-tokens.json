@@ -219,6 +219,12 @@
       "baseDenom": "factory/inj10y97meexththnfm3wf7pc8jtw2uxx7xrgp0sgz/USDT",
       "path": "",
       "coinDenom": "USDT"
+    },
+    {
+      "denom": "factory/inj1cl73qehnazz6epzx2zwa9e69dt5nhrsjy6g276/lockedusdc1787640750",
+      "baseDenom": "factory/inj1cl73qehnazz6epzx2zwa9e69dt5nhrsjy6g276/lockedusdc1787640750",
+      "path": "",
+      "coinDenom": "lockedusdc1787640750"
     }
   ],
   "juno-1": [
