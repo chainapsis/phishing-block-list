@@ -390,6 +390,6 @@
       "baseDenom": "cw20:neutron1l8eztf2kkk4mvhgatxwl0fgt2u2583yc4hn8nffsrxtsw737lrzsgefpdr",
       "path": "transfer/channel-0/transfer/channel-1718",
       "coinDenom": "ATOMAIRDROP"
-    },
+    }
   ]
 }
