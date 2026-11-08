@@ -1,4 +1,5 @@
 KeplrwalletAid
+jareckeltzbn2
 Keplr_walIet
 keplrapp
 keplr_walletExt
