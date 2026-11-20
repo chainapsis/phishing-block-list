@@ -31,10 +31,12 @@ export default async function handler(
 
   const directory: string = path.join(process.cwd(), "scam-validators");
 
-  const promiseFiles = (await fs.readdir(directory)).map(
-    async (fileName: string) => {
+  const promiseFiles = (await fs.readdir(directory, { withFileTypes: true }))
+    .filter((entry) => entry.isFile() && entry.name.endsWith(".txt"))
+    .map(async (entry) => {
+      const fileName = entry.name;
       const file: string = await fs.readFile(
-        `${directory}/${fileName}`,
+        path.join(directory, fileName),
         "utf8"
       );
 
@@ -47,11 +49,10 @@ export default async function handler(
           : [];
 
       return {
-        identifier: fileName.split(".txt")[0],
+        identifier: path.parse(fileName).name,
         validatorAddresses,
       };
-    }
-  );
+    });
 
   const response: Data = (await Promise.all(promiseFiles)).reduce(
     (obj: Record<string, string[]>, item: ValidatorData) =>
